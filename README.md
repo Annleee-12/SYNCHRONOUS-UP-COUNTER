@@ -60,7 +60,8 @@ out <= out+1;
 
 
 
-<img width="794" height="446" alt="image" src="https://github.com/user-attachments/assets/f8310d34-8f25-4922-baec-bb19600c8a2d" />
+<img width="838" height="436" alt="image" src="https://github.com/user-attachments/assets/d86a5451-b734-41c1-918e-e2a7b5b350ca" />
+
 
 
 **TRUTH TABLE**
